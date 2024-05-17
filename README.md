@@ -1,1 +1,1 @@
-# UsedSQLandConnectJava
+NVC패턴으로 패키지 만들어서 했고 사진은 모델링 사진입니다
